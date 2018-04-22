@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#test
+
 if [ $# -lt 1 ]; then
   	echo "Usage: `basename $0` <full path and name of the file you want to rotate> "
 	exit 666
