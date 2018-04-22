@@ -8,6 +8,8 @@ if [ $# -lt 1 ]; then
 	exit 666
 fi
 
+#test
+
 
 
 TODAY=`date +%Y%m%d_%H%M%S`
